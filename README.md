@@ -1,10 +1,14 @@
 <p align="center">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
+    <button style="background-color:#007BFF; color:white; border:none; padding:10px 20px; border-radius:5px; cursor:pointer;">
+      Language: English
+    </button>
   </a>
 
   <a href="./README.es.md">
-    <img src="https://img.shields.io/badge/Idioma-Español-red?style=for-the-badge">
+    <button style="background-color:#DC3545; color:white; border:none; padding:10px 20px; border-radius:5px; cursor:pointer;">
+      Idioma: Español
+    </button>
   </a>
 </p>
 
