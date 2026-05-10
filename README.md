@@ -1,16 +1,13 @@
 <p align="center">
   <a href="./README.md">
-    <button style="background-color:#007BFF; color:white; border:none; padding:10px 20px; border-radius:5px; cursor:pointer;">
-      Language: English
-    </button>
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
   </a>
 
   <a href="./README.es.md">
-    <button style="background-color:#DC3545; color:white; border:none; padding:10px 20px; border-radius:5px; cursor:pointer;">
-      Idioma: Español
-    </button>
+    <img src="https://img.shields.io/badge/Idioma-Español-red?style=for-the-badge">
   </a>
 </p>
+
 
 # 🏢 Data Warehouse Project
 
